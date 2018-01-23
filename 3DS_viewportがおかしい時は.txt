@@ -1,0 +1,7 @@
+FTL:Virtual device creation failed.
+
+?Max起動
+①カスタマイズ／基本設定
+②ビューポートタブ
+③ディスプレイドライバのドライバを選択
+④古いバージョンのDirect3D
