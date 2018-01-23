@@ -1,0 +1,18 @@
+〇Unityのライセンスエラーで起動できない場合の対処
+
+１．ネットワークケーブルを抜く
+２．Unityを起動
+３．Manual Activationを選択
+４．SaveLicenseRequestを選びデスクトップにライセンスファイルを保存
+５．ネットワークケーブルをつなぐ
+６．https://license.unity3d.com/manual　にアクセス
+７．ログインする
+８．Choose the license request file　にさっき保存したライセンスファイルを指定
+９．無料ライセンス手続きを行うと新規ライセンスファイルがダウンロードされる
+１０．ネットワークケーブルを抜く
+１１．Unityを起動
+１２．Manual Activationを選択
+１３．Load License　でダウンロードした新規ライセンスファイルを選択
+１４．ネットワークケーブルをつなぐ
+１５．Unity再起動
+１６．お疲れさまでした
