@@ -1,0 +1,2 @@
+①C:\Program Files\Autodesk\3ds Max 2017\Plugins へ移動
+②Axe_free_v2.2.4_max2017.dle　を入れる　※このメモと同じフォルダに入れておく　2017/06/27
